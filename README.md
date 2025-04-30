@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on an app for my community college!
+- 🌱 I’m currently learning about data structures and algorithms.
+- 💬 Ask me about anything Star Wars.
+- 📫 How to reach me: eric35linares@gmail.com
+
 <!--
 **eric35linares/eric35linares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
